@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "When Worlds Collide.Plugins", "When Worlds Collide.Plugins.csproj", "{48994CAE-2594-FB85-6BF6-99AB8D9BFFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "When Worlds Collide", "When Worlds Collide.csproj", "{8B912120-3FF5-F1C5-ABF9-00F1A66B9CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "When Worlds Collide.Editor", "When Worlds Collide.Editor.csproj", "{F565D297-4B7C-C214-69DF-8405C394BB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48994CAE-2594-FB85-6BF6-99AB8D9BFFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48994CAE-2594-FB85-6BF6-99AB8D9BFFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48994CAE-2594-FB85-6BF6-99AB8D9BFFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48994CAE-2594-FB85-6BF6-99AB8D9BFFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B912120-3FF5-F1C5-ABF9-00F1A66B9CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B912120-3FF5-F1C5-ABF9-00F1A66B9CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B912120-3FF5-F1C5-ABF9-00F1A66B9CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B912120-3FF5-F1C5-ABF9-00F1A66B9CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F565D297-4B7C-C214-69DF-8405C394BB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F565D297-4B7C-C214-69DF-8405C394BB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F565D297-4B7C-C214-69DF-8405C394BB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F565D297-4B7C-C214-69DF-8405C394BB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
